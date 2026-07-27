@@ -1,5 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Pawan%20Singh&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20AI%20Powered%20Applications%20🤖&descAlignY=65&descSize=22&descColor=7FDBFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Hi,%20I%20am%20Pawan%20Singh&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+AI+Powered+Applications+🤖;AI%2FML+Enthusiast;Generative+AI+Explorer;Machine+Learning+Developer;Future+AI+Engineer&font=Fira+Code&center=true&width=600&height=50&color=7FDBFF&vCenter=true&size=22"/>
+</p>
 
 📧 **Email Me:** ✉️ **pawans1626@gmail.com**  
 For Collaboration, Projects, Freelance Work, or Anything Tech-related 🤝
