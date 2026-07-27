@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Pawan+Singh;AI%2FML+Developer+🤖;Generative+AI+Enthusiast+🚀;Building+AI+Powered+Applications;Python+%7C+FastAPI+%7C+React+%7C+ML">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Pawan+Singh;AI%2FML+Engineer+🤖;Generative+AI+Developer+🚀;Building+Intelligent+Applications;Python+%7C+FastAPI+%7C+React+%7C+ML">
 
 </div>
 
