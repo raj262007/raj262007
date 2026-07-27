@@ -86,3 +86,10 @@ Git • GitHub • VS Code • Google Cloud • Docker
 
 ### ⚡ Fun Fact
 I enjoy turning ideas into real-world AI products 🚀
+<h1 align="center">
+  Hi 👋, I'm Pawan Singh
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Developer;Python+Developer;MERN+Stack+Developer;Generative+AI+Enthusiast&center=true&width=500&height=50">
+</h3>
