@@ -1,11 +1,8 @@
+<div align="center">
 
-<h1 align="center">
-  Hi 👋, I'm Pawan Singh
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Pawan+Singh;AI%2FML+Developer+🤖;Generative+AI+Enthusiast+🚀;Building+AI+Powered+Applications;Python+%7C+FastAPI+%7C+React+%7C+ML">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Developer;Python+Developer;Generative+AI+Enthusiast&center=true&width=500&height=50">
-</h3>
+</div>
 
 📧 **Email Me:** ✉️ **pawans1626@gmail.com**  
 For Collaboration, Projects, Freelance Work, or Anything Tech-related 🤝
