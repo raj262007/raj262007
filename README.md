@@ -1,7 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Pawan%20Singh&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Pawan%20Singh&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Pawan+Singh;AI%2FML+Engineer+🤖;Generative+AI+Developer+🚀;Building+Intelligent+Applications;Python+%7C+FastAPI+%7C+React+%7C+ML">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=0077FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Pawan+Singh;AI%2FML+Developer+🤖;Generative+AI+Explorer+🚀;Building+Intelligent+Applications;Python+%7C+FastAPI+%7C+React+%7C+ML">
 
 </div>
 
