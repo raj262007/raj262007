@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Pawan%20Singh&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Developer%20%7C%20Generative%20AI%20%7C%20Python%20%7C%20FastAPI%20%7C%20React&descAlignY=65&descSize=22&descColor=00F7FF"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=260&section=header&text=Pawan%20Singh&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20AI%20Powered%20Applications%20🤖&descAlignY=65&descSize=22&descColor=7FDBFF"/>
 
 📧 **Email Me:** ✉️ **pawans1626@gmail.com**  
