@@ -31,12 +31,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,c,django,flask,mongodb,mysql,postgres,sqlite,redis,firebase,docker,git,github,figma,aws,gcp" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</p>
 
 <br>
 
