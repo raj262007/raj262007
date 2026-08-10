@@ -11,17 +11,27 @@
 
 <table align="center">
 <tr>
+
 <td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj262007&theme=github_dark" width="100%">
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj262007&theme=github_dark"
+  width="100%"
+  alt="GitHub Stats"
+/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com/?user=raj262007&theme=dark&hide_border=true" width="100%">
+<img
+  src="https://streak-stats.demolab.com/?user=raj262007&theme=github-dark&hide_border=true"
+  width="100%"
+  alt="GitHub Contribution Streak"
+/>
 
 </td>
+
 </tr>
 </table>
 
