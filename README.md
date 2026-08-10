@@ -1,38 +1,26 @@
 <h1 align="center">Hey 👋, I'm Pawan Singh</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raj262007&label=Profile%20Views&color=0e75b6&style=flat">
-  <img src="https://img.shields.io/github/followers/raj262007?label=Followers&style=flat&color=0e75b6">
+  <img src="https://komarev.com/ghpvc/?username=raj262007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/raj262007?label=Followers&style=flat" alt="Followers" />
 </p>
 
-<br>
-
-<!-- GitHub Stats + Contribution Streak -->
-
-<table align="center">
-<tr>
-
-<td width="50%" align="center">
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj262007&theme=github_dark"
-  width="100%"
-  alt="GitHub Stats"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=raj262007&theme=github-dark&hide_border=true"
-  width="100%"
-  alt="GitHub Contribution Streak"
-/>
-
-</td>
-
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=raj262007&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="Pawan Singh's GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=raj262007&theme=tokyonight&hide_border=true"
+        alt="Pawan Singh's GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
 </table>
 
 <br>
