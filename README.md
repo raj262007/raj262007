@@ -1,25 +1,25 @@
 <h1 align="center">Hey 👋, I'm Pawan Singh</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raj262007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/raj262007?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=raj262007&label=Profile%20Views&color=0e75b6&style=flat">
+  <img src="https://img.shields.io/github/followers/raj262007?label=Followers&style=flat&color=0e75b6">
 </p>
 
 <br>
 
-<!-- GitHub Stats + Streak -->
+<!-- GitHub Stats + Contribution Streak -->
 
 <table align="center">
 <tr>
-<td>
+<td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raj262007&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj262007&theme=github_dark" width="100%">
 
 </td>
 
-<td>
+<td width="50%" align="center">
 
-<img src="https://streak-stats.demolab.com/?user=raj262007&hide_border=true&theme=github-dark" />
+<img src="https://streak-stats.demolab.com/?user=raj262007&theme=dark&hide_border=true" width="100%">
 
 </td>
 </tr>
@@ -30,19 +30,14 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,c,django,flask,mongodb,mysql,postgres,sqlite,redis,firebase,docker,git,github,figma,aws,gcp" />
-
 </p>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
 </p>
 
 <br>
@@ -56,7 +51,7 @@
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj262007&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj262007&theme=github-compact&hide_border=true&area=true" width="100%">
 
 </td>
 
@@ -64,7 +59,7 @@
 
 ### 📌 GitHub Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=raj262007&show_icons=true&hide_border=true&hide=contribs&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raj262007&theme=github_dark" width="100%">
 
 </td>
 
@@ -73,20 +68,24 @@
 
 <br>
 
-<!-- Language Statistics -->
+<!-- Languages -->
 
 <table align="center">
 <tr>
 
-<td align="center">
+<td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj262007&theme=github_dark" />
+### Top Languages by Repo
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raj262007&theme=github_dark">
 
 </td>
 
-<td align="center">
+<td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raj262007&theme=github_dark" />
+### Top Languages by Commit
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raj262007&theme=github_dark">
 
 </td>
 
